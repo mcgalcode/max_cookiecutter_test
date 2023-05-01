@@ -1,8 +1,8 @@
 max_cookiecutter_test
 ==============================
 [//]: # (Badges)
-[![GitHub Actions Build Status](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/max_cookiecutter_test/workflows/CI/badge.svg)](https://github.com/REPLACE_WITH_OWNER_ACCOUNT/max_cookiecutter_test/actions?query=workflow%3ACI)
-[![codecov](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/max_cookiecutter_test/branch/main/graph/badge.svg)](https://codecov.io/gh/REPLACE_WITH_OWNER_ACCOUNT/max_cookiecutter_test/branch/main)
+[![GitHub Actions Build Status](https://github.com/mcgalcode/max_cookiecutter_test/workflows/CI/badge.svg)](https://github.com/mcgalcode/max_cookiecutter_test/actions?query=workflow%3ACI)
+[![codecov](https://codecov.io/gh/mcgalcode/max_cookiecutter_test/branch/main/graph/badge.svg)](https://codecov.io/gh/mcgalcode/max_cookiecutter_test/branch/main)
 
 
 A test package.

@@ -57,7 +57,7 @@ jobs:
           pytest -v --cov=max_cookiecutter_test --cov-report=xml --color=yes max_cookiecutter_test/tests/
 
       - name: CodeCov
-        uses: codecov/codecov-action@v1
+        uses: codecov/codecov-action@v3
         with:
           file: ./coverage.xml
           flags: unittests
